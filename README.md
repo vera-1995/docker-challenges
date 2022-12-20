@@ -2,7 +2,20 @@
 
 ## What is and why Docker?
 
-## What is and why Coding Dojo?
+Docker is an "open source platform that enables developers to build, deploy, run, update and manage containers" (from [IBM](https://www.ibm.com/cloud/learn/docker))
+
+Several applications and services nowadays live in the cloud, Docker provides a solution that allows to abstract the implementation from the machine where it is run, this brings advantages for the applications where, independently of the machine and OS, the deployment of the service is always the same. 
+
+For more information regarding Docker see [Docker docs](https://docs.docker.com/get-started/overview/).
+## What is Coding Dojo?
+
+Coding Dojo is a series of meetings where coders come together to solve challenges, with a non-competitive, collaborative environment where the coders learn regarding a new topic through challenges which increment in difficulty.
+
+The Coding Dojo applied here features a challenge per week, increasing in difficulty throughout the sessions. The RandoriKata meeting type is used where members of the audience rotate through the roles of pilot and co-pilot every 10 minutes.
+
+This project provides the challenges, solutions and can be used to facilitate the cooperation between coders.
+
+For more information regarding Coding Dojo see [codingdojo.org](https://codingdojo.org/practices/WhatIsCodingDojo/).
 
 ## Requirements
 
