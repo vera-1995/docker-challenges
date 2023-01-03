@@ -7,6 +7,7 @@ Docker is an "open source platform that enables developers to build, deploy, run
 Several applications and services nowadays live in the cloud, Docker provides a solution that allows to abstract the implementation from the machine where it is run, this brings advantages for the applications where, independently of the machine and OS, the deployment of the service is always the same. 
 
 For more information regarding Docker see [Docker docs](https://docs.docker.com/get-started/overview/).
+
 ## What is Coding Dojo?
 
 Coding Dojo is a series of meetings where coders come together to solve challenges, with a non-competitive, collaborative environment where the coders learn regarding a new topic through challenges which increment in difficulty.
@@ -22,7 +23,7 @@ For more information regarding Coding Dojo see [codingdojo.org](https://codingdo
 * Docker [installed](https://www.docker.com/products/docker-desktop/) in your machine
 * Know how to use Google
 * Interest in learning Docker
-
+* [Optional] [Live share extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) to ease collaboration
 
 ## Roadmap
 
@@ -33,3 +34,4 @@ For more information regarding Coding Dojo see [codingdojo.org](https://codingdo
 * Run Simple “Hello World” REST Java Project in Docker with configurations
 * Run REST Java Application which communicates with another service and a DB
 * Remote debug the previous Challenge
+
