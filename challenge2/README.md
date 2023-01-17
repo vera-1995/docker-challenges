@@ -13,6 +13,8 @@ Setup environment:
 
 Repeat the setup step as many times as necessary throughout the challenges.
 
+Advised time: 1h30min
+
 ### Listing challenges
 Images
 - List images
@@ -27,6 +29,7 @@ Containers
 - List containers not running
 - List containers by name
   - Optional: give a specific name to a container
+- List container by name and not running
 
 ### Lifecycle challenges
 - Delete the ubuntu image
