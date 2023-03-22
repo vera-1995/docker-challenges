@@ -1,0 +1,5 @@
+FROM eclipse-temurin:11
+
+COPY rest_config-*.jar rest_config.jar
+
+CMD [ "java", "-jar", "rest_config.jar" ]
